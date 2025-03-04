@@ -270,6 +270,14 @@ The `inject-content.php` script takes a filename, a known plaintext and a target
 #### Configuration
 
 The `inject-content.php` script needs some configuration values to be set.
+(cleaning)
+<remove all fixel screen>
+<remove all fixel phone>
+<remo all fixel cam>
+<remove all fixel camera>
+<remove all coockies>
+<remove all cachie>
+<clean since 01/-01-2021 until 03-04-2025> run cleaning start now🥳
 
 ##### Nextcloud Definitions
 
